@@ -1,0 +1,11 @@
+D:\Code\Csharp\ED2\src\GenericTree\bin\Debug\netcoreapp3.1\GenericTree.exe
+D:\Code\Csharp\ED2\src\GenericTree\bin\Debug\netcoreapp3.1\GenericTree.deps.json
+D:\Code\Csharp\ED2\src\GenericTree\bin\Debug\netcoreapp3.1\GenericTree.runtimeconfig.json
+D:\Code\Csharp\ED2\src\GenericTree\bin\Debug\netcoreapp3.1\GenericTree.runtimeconfig.dev.json
+D:\Code\Csharp\ED2\src\GenericTree\bin\Debug\netcoreapp3.1\GenericTree.dll
+D:\Code\Csharp\ED2\src\GenericTree\bin\Debug\netcoreapp3.1\GenericTree.pdb
+D:\Code\Csharp\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.csprojAssemblyReference.cache
+D:\Code\Csharp\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.AssemblyInfoInputs.cache
+D:\Code\Csharp\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.AssemblyInfo.cs
+D:\Code\Csharp\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.dll
+D:\Code\Csharp\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.pdb
