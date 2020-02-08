@@ -17,7 +17,9 @@ namespace GenericTree
             tree.AddNode("quatro", "seis", 6);
             tree.AddNode("cinco", "sete", 7);
 
-            Console.WriteLine(tree.Size());
+            var parent = tree.Parent("oito");
+            Console.WriteLine(parent);
+
         }
     }
 }

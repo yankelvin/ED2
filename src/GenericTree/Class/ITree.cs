@@ -5,11 +5,14 @@ namespace GenericTree.Class
     public interface ITree<Index, T>
     {
         // Adiciona um nó na árvore
-        public void AddRoot(Index ind, T data);
+        public void AddRoot(Index index, T data);
         public void AddNode(Index fatherIndex, Index ind, T data);
 
         // Busca um nó e retorna o mesmo
         public Node<Index, T> SearchNode(Index index);
+
+        // Remove um nó na árvore
+        public T RemoveNode(Index index);
 
         // Retorna a quantidade de nós da árvore
         public int Size();
@@ -17,14 +20,11 @@ namespace GenericTree.Class
         //retorna se a árvore está vazia
         public bool IsEmpty();
 
-        // Retorna um interador sobre os elementos armazenados da árvore
-        public Iterator<T> Iterator();
-
         // Retorna um coleção interável de nós
         public IEnumerable<Node<Index, T>> GetNodes();
 
         // Substitui o elemento armazenado em determinado nó
-        public T Replace(Index index, T v);
+        public void Replace(Index index, T v);
 
         // Retorna a raiz da árvore
         public Node<Index, T> GetRoot();

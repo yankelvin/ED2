@@ -29,11 +29,21 @@ namespace GenericTree.Class
                 Childrens.Add(node);
         }
 
-        public T RemoveChildren(Index ind, T data)
+        public T RemoveChildren(Index index)
         {
-            var children = Childrens.Find(it => it.Ind.Equals(ind) && it.Data.Equals(data));
+            var children = Childrens.Find(it => it.Ind.Equals(index));
             if (children != null)
                 Childrens.Remove(children);
+
+            return default;
+        }
+
+        public Node<Index, T> FindNode(Index index)
+        {
+            var children = Childrens.Find(it => it.Ind.Equals(index));
+
+            if (children != null)
+                return children;
 
             return default;
         }

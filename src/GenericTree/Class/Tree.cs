@@ -40,6 +40,22 @@ namespace GenericTree.Class
             }
         }
 
+        public T RemoveNode(Index index)
+        {
+            var parent = Parent(index);
+
+            if (parent != null)
+            {
+                var value = parent.FindNode(index).Data;
+                parent.RemoveChildren(index);
+                Count--;
+
+                return value;
+            }
+
+            return default;
+        }
+
         public Node<Index, T> SearchNode(Index index)
         {
             if (IsEmpty())
@@ -49,33 +65,30 @@ namespace GenericTree.Class
                 return Root;
 
             return Search(index, Root.Childrens);
-        }
 
-        private Node<Index, T> Search(Index index, List<Node<Index, T>> nodes)
-        {
-            if (nodes.Count == 0)
-                return null;
-
-            foreach (var n in nodes)
-                if (n.Ind.Equals(index))
-                    return n;
-
-            Node<Index, T> node = null;
-
-            foreach (var n in nodes)
+            static Node<Index, T> Search(Index index, List<Node<Index, T>> nodes)
             {
-                node = Search(index, n.Childrens);
-                if (node != null)
-                    return node;
+                if (nodes.Count == 0)
+                    return null;
+
+                foreach (var n in nodes)
+                    if (n.Ind.Equals(index))
+                        return n;
+
+                Node<Index, T> node = null;
+
+                foreach (var n in nodes)
+                {
+                    node = Search(index, n.Childrens);
+                    if (node != null)
+                        return node;
+                }
+
+                return node;
             }
-
-            return node;
         }
 
-        public bool IsEmpty()
-        {
-            return Root == null ? true : false;
-        }
+        public bool IsEmpty() => Root == null ? true : false;
 
         public Node<Index, T> GetRoot() => Root;
 
@@ -83,45 +96,65 @@ namespace GenericTree.Class
 
         public bool IsExternal(Index index)
         {
-            var _node = SearchNode(index);
-            return _node.Childrens.Count == 0 ? true : false;
+            var node = SearchNode(index);
+
+            return node != null && node.Childrens.Count == 0 ? true : false;
         }
 
         public bool IsInternal(Index index)
         {
-            var _node = SearchNode(index);
-            return _node.Childrens.Count > 0 ? true : false;
+            var node = SearchNode(index);
+
+            return node != null && node.Childrens.Count > 0 ? true : false;
         }
 
         public bool IsRoot(Index index)
         {
-            return Root.Ind.Equals(index) ? true : false;
+            return !IsEmpty() && Root.Ind.Equals(index) ? true : false;
         }
 
         public Node<Index, T> Parent(Index index)
         {
-            throw new NotImplementedException();
+            return SearchParent(index, Root, Root.Childrens);
+
+            static Node<Index, T> SearchParent(Index index, Node<Index, T> parent, List<Node<Index, T>> nodes)
+            {
+                if (nodes.Count == 0)
+                    return null;
+
+                foreach (var n in nodes)
+                    if (n.Ind.Equals(index))
+                        return parent;
+
+                Node<Index, T> node = null;
+
+                foreach (var n in nodes)
+                {
+                    node = SearchParent(index, n, n.Childrens);
+                    if (node != null)
+                        return node;
+                }
+
+                return node;
+            }
         }
 
-        public T Replace(Index index, T v)
+        public void Replace(Index index, T v)
         {
-            var _node = SearchNode(index).Data = v;
-            return _node;
-        }
+            var node = SearchNode(index);
 
-        public Iterator<T> Iterator()
-        {
-            throw new NotImplementedException();
+            if (node != null)
+                node.Data = v;
         }
 
         public IEnumerable<Node<Index, T>> GetNodes()
         {
-            return Root.Childrens;
+            return !IsEmpty() ? Root.Childrens : null;
         }
 
         public IEnumerable<Node<Index, T>> Children(Index index)
         {
-            return SearchNode(index).Childrens;
+            return SearchNode(index)?.Childrens;
         }
     }
 }
