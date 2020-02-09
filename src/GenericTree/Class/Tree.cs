@@ -46,11 +46,11 @@ namespace GenericTree.Class
 
             if (parent != null)
             {
-                var value = parent.FindNode(index).Data;
+                var node = parent.FindNode(index);
                 parent.RemoveChildren(index);
-                Count--;
+                Count -= (1 + node.Childrens.Count);
 
-                return value;
+                return node.Data;
             }
 
             return default;

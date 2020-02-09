@@ -1,25 +1,37 @@
-﻿using GenericTree.Class;
-using System;
-
-namespace GenericTree
+﻿namespace GenericTree
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var tree = new Tree<string, int>("um", 1);
-            tree.AddNode("um", "dois", 2);
-            tree.AddNode("um", "tres", 3);
+            var explorerTree = new ExplorerTree("/usuarios/rt/cursos", 1);
+            explorerTree.AddFileFolder("/usuarios/rt/cursos", "cs016/", 2);
+            explorerTree.AddFileFolder("/usuarios/rt/cursos", "cs252/", 1);
 
-            tree.AddNode("dois", "quatro", 4);
-            tree.AddNode("tres", "cinco", 5);
+            explorerTree.AddFileFolder("cs016/", "notas", 8);
+            explorerTree.AddFileFolder("cs016/", "temas/", 1);
+            explorerTree.AddFileFolder("cs016/", "programas/", 1);
 
-            tree.AddNode("quatro", "seis", 6);
-            tree.AddNode("cinco", "sete", 7);
+            explorerTree.AddFileFolder("temas/", "tm1", 3);
+            explorerTree.AddFileFolder("temas/", "tm2", 2);
+            explorerTree.AddFileFolder("temas/", "tm3", 4);
 
-            var parent = tree.Parent("oito");
-            Console.WriteLine(parent);
+            explorerTree.AddFileFolder("programas/", "pr1", 57);
+            explorerTree.AddFileFolder("programas/", "pr2", 97);
+            explorerTree.AddFileFolder("programas/", "pr3", 74);
 
+            explorerTree.AddFileFolder("cs252/", "projetos/", 1);
+            explorerTree.AddFileFolder("cs252/", "notas", 3);
+
+            explorerTree.AddFileFolder("projetos/", "trabalhos/", 1);
+            explorerTree.AddFileFolder("projetos/", "demos/", 1);
+
+            explorerTree.AddFileFolder("trabalhos/", "compre baixo", 26);
+            explorerTree.AddFileFolder("trabalhos/", "venda alto", 55);
+
+            explorerTree.AddFileFolder("demos/", "mercado", 4786);
+
+            explorerTree.ShowExplorer();
         }
     }
 }
