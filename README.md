@@ -1,2 +1,2 @@
 # ED2
- Implementação - Estrutura de Dados Avançada
+ Implementações - Estrutura de Dados Avançada
