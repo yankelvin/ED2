@@ -133,38 +133,49 @@ namespace BinaryTree
         {
             var binaryTree = new BinaryTree<int, int>();
             Console.WriteLine("-------- Árvore com 2 milhões de nós --------");
-            Console.WriteLine("Iniciando inserção...\n");
+            Console.WriteLine($"Iniciando inserção às {DateTime.Now.ToString()}\n");
+
+            Random rnd = new Random();
 
             for (int i = 0; i < 2000000; i++)
             {
-                binaryTree.Add(i, i);
+                var random = rnd.Next(0, 2000000);
+                binaryTree.Add(random, i);
             }
 
-            Console.WriteLine("Inserção finalizada!\n");
-            Console.WriteLine("O que você deseja fazer?");
-            Console.WriteLine("1 - Busca recursiva");
-            Console.WriteLine("2 - Busca iterativa");
+            Console.WriteLine($"Inserção finalizada às {DateTime.Now.ToString()}\n");
 
-            var opcao = int.Parse(Console.ReadLine());
-
-            switch (opcao)
+            while (true)
             {
-                case 1:
-                    Console.WriteLine("Informe o índice que deseja buscar: ");
-                    var indice = int.Parse(Console.ReadLine());
+                Console.WriteLine("O que você deseja fazer? [99 para sair]");
+                Console.WriteLine("1 - Busca recursiva");
+                Console.WriteLine("2 - Busca iterativa");
 
-                    var now = DateTime.Now;
-                    Console.WriteLine($"Iniciando busca: {now.ToString()}");
-                    binaryTree.Search(indice);
+                var opcao = int.Parse(Console.ReadLine());
 
-                    now = DateTime.Now;
-                    Console.WriteLine($"Indice encontrado às {now.ToString()}");
+                Console.WriteLine("");
+                if (opcao == 99)
                     break;
-                case 2:
-                    break;
-                default:
-                    Console.WriteLine("Opção inválida!");
-                    break;
+
+                switch (opcao)
+                {
+                    case 1:
+                        Console.WriteLine("Informe o índice que deseja buscar: ");
+                        var indice = int.Parse(Console.ReadLine());
+
+                        var now = DateTime.Now;
+                        Console.WriteLine($"\nIniciando busca: {now.ToString()}");
+                        binaryTree.Search(indice);
+
+                        now = DateTime.Now;
+                        Console.WriteLine($"Indice encontrado às {now.ToString()}");
+                        break;
+                    case 2:
+                        break;
+                    default:
+                        Console.WriteLine("Opção inválida!");
+                        break;
+                }
             }
         }
     }
