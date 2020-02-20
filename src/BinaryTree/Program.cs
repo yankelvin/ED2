@@ -132,18 +132,18 @@ namespace BinaryTree
         public static void Exercicio03()
         {
             var binaryTree = new BinaryTree<int, int>();
-            Console.WriteLine("-------- Árvore com 2 milhões de nós --------");
-            Console.WriteLine($"Iniciando inserção às {DateTime.Now.ToString()}\n");
+            Console.WriteLine("\n-------- Árvore com 2 milhões de nós --------");
+            Console.WriteLine($"Iniciando inserção às {DateTimeOffset.Now.ToString("MM/dd/yyyy hh:mm:ss.fff tt")}\n");
 
             Random rnd = new Random();
 
             for (int i = 0; i < 2000000; i++)
             {
                 var random = rnd.Next(0, 2000000);
-                binaryTree.Add(random, i);
+                binaryTree.AddIterative(random, i);
             }
 
-            Console.WriteLine($"Inserção finalizada às {DateTime.Now.ToString()}\n");
+            Console.WriteLine($"Inserção finalizada às {DateTimeOffset.Now.ToString("MM/dd/yyyy hh:mm:ss.fff tt")}\n");
 
             while (true)
             {
@@ -163,14 +163,19 @@ namespace BinaryTree
                         Console.WriteLine("Informe o índice que deseja buscar: ");
                         var indice = int.Parse(Console.ReadLine());
 
-                        var now = DateTime.Now;
-                        Console.WriteLine($"\nIniciando busca: {now.ToString()}");
+                        Console.WriteLine($"\nIniciando busca: {DateTimeOffset.Now.ToString("MM/dd/yyyy hh:mm:ss.fff tt")}");
                         binaryTree.Search(indice);
 
-                        now = DateTime.Now;
-                        Console.WriteLine($"Indice encontrado às {now.ToString()}");
+                        Console.WriteLine($"Indice encontrado às {DateTimeOffset.Now.ToString("MM/dd/yyyy hh:mm:ss.fff tt")}\n");
                         break;
                     case 2:
+                        Console.WriteLine("Informe o índice que deseja buscar: ");
+                        indice = int.Parse(Console.ReadLine());
+
+                        Console.WriteLine($"\nIniciando busca: {DateTimeOffset.Now.ToString("MM/dd/yyyy hh:mm:ss.fff tt")}");
+                        binaryTree.SearchIterative(indice);
+
+                        Console.WriteLine($"Indice encontrado às {DateTimeOffset.Now.ToString("MM/dd/yyyy hh:mm:ss.fff tt")}\n");
                         break;
                     default:
                         Console.WriteLine("Opção inválida!");

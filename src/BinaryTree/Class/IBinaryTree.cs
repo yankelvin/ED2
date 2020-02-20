@@ -7,9 +7,11 @@ namespace BinaryTree.Class
     {
         // Adiciona um nó na árvore
         public void Add(K key, T data);
+        public void AddIterative(K key, T data);
 
         // Busca um nó e retorna o mesmo
         public Node<K, T> Search(K key);
+        public Node<K, T> SearchIterative(K key);
 
         // Busca o pai de um nó e retorna o mesmo
         public Node<K, T> Parent(K key);

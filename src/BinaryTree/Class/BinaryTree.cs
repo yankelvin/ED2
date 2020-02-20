@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace BinaryTree.Class
 {
@@ -17,6 +16,44 @@ namespace BinaryTree.Class
         public BinaryTree(K key, T data) : this()
         {
             Root = new Node<K, T>(key, data);
+        }
+
+        public void AddIterative(K key, T data)
+        {
+            var node = new Node<K, T>(key, data);
+
+            if (IsEmpty())
+            {
+                Root = node;
+                Count++;
+                return;
+            }
+
+            var current = Root;
+            while (true)
+            {
+                Node<K, T> parent = current;
+                if (key.GetHashCode() < current.GetHashCode())
+                {
+                    current = current.Left;
+                    if (current == null)
+                    {
+                        parent.Left = node;
+                        node.Parent = parent;
+                        return;
+                    }
+                }
+                else
+                {
+                    current = current.Right;
+                    if (current == null)
+                    {
+                        parent.Right = node;
+                        node.Parent = parent;
+                        return;
+                    }
+                }
+            }
         }
 
         public void Add(K key, T data)
@@ -65,6 +102,24 @@ namespace BinaryTree.Class
 
                 return SearchNode(key, node.Right);
             }
+        }
+
+        public Node<K, T> SearchIterative(K key)
+        {
+            var current = Root;
+
+            while (!current.Key.Equals(key))
+            {
+                if (key.GetHashCode() < current.Key.GetHashCode())
+                    current = current.Left;
+                else
+                    current = current.Right;
+
+                if (current == null)
+                    return null;
+            }
+
+            return current;
         }
 
         public Node<K, T> Remove(K key)
