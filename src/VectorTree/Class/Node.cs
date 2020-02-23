@@ -1,14 +1,12 @@
 ﻿using System;
 
-namespace BinaryTree.Class
+namespace VectorTree.Class
 {
     public class Node<K, T>
     {
         public K Key { get; private set; }
         public T Data { get; set; }
         public Node<K, T> Parent { get; set; }
-        public Node<K, T> Left { get; set; }
-        public Node<K, T> Right { get; set; }
 
         public Node(K key, T data)
         {
@@ -26,7 +24,7 @@ namespace BinaryTree.Class
 
         public override string ToString()
         {
-            return $"Key: {Key} | Data: {Data} | Left: {Left.Key} | Right: {Right.Key}";
+            return $"Key: {Key} | Data: {Data}";
         }
     }
 }

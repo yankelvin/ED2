@@ -16,6 +16,7 @@ namespace BinaryTree.Class
         public BinaryTree(K key, T data) : this()
         {
             Root = new Node<K, T>(key, data);
+            Count++;
         }
 
         public void AddIterative(K key, T data)

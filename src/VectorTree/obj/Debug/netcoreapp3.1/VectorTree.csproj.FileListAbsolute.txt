@@ -1,0 +1,11 @@
+D:\Code\Csharp\ED2\src\VectorTree\bin\Debug\netcoreapp3.1\VectorTree.exe
+D:\Code\Csharp\ED2\src\VectorTree\bin\Debug\netcoreapp3.1\VectorTree.deps.json
+D:\Code\Csharp\ED2\src\VectorTree\bin\Debug\netcoreapp3.1\VectorTree.runtimeconfig.json
+D:\Code\Csharp\ED2\src\VectorTree\bin\Debug\netcoreapp3.1\VectorTree.runtimeconfig.dev.json
+D:\Code\Csharp\ED2\src\VectorTree\bin\Debug\netcoreapp3.1\VectorTree.dll
+D:\Code\Csharp\ED2\src\VectorTree\bin\Debug\netcoreapp3.1\VectorTree.pdb
+D:\Code\Csharp\ED2\src\VectorTree\obj\Debug\netcoreapp3.1\VectorTree.csprojAssemblyReference.cache
+D:\Code\Csharp\ED2\src\VectorTree\obj\Debug\netcoreapp3.1\VectorTree.AssemblyInfoInputs.cache
+D:\Code\Csharp\ED2\src\VectorTree\obj\Debug\netcoreapp3.1\VectorTree.AssemblyInfo.cs
+D:\Code\Csharp\ED2\src\VectorTree\obj\Debug\netcoreapp3.1\VectorTree.dll
+D:\Code\Csharp\ED2\src\VectorTree\obj\Debug\netcoreapp3.1\VectorTree.pdb
