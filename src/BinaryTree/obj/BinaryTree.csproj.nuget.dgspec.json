@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Csharp\\ED2\\src\\BinaryTree\\BinaryTree.csproj": {}
+    "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Csharp\\ED2\\src\\BinaryTree\\BinaryTree.csproj": {
+    "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Csharp\\ED2\\src\\BinaryTree\\BinaryTree.csproj",
+        "projectUniqueName": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj",
         "projectName": "BinaryTree",
-        "projectPath": "D:\\Code\\Csharp\\ED2\\src\\BinaryTree\\BinaryTree.csproj",
+        "projectPath": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj",
         "packagesPath": "C:\\Users\\yanke\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Csharp\\ED2\\src\\BinaryTree\\obj\\",
+        "outputPath": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yanke\\AppData\\Roaming\\NuGet\\NuGet.Config",

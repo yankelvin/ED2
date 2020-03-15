@@ -1,0 +1,15 @@
+D:\Code\Projetos\ED2\src\DataBase\bin\Debug\netcoreapp3.1\BinaryTree.exe
+D:\Code\Projetos\ED2\src\DataBase\bin\Debug\netcoreapp3.1\DataBase.exe
+D:\Code\Projetos\ED2\src\DataBase\bin\Debug\netcoreapp3.1\DataBase.deps.json
+D:\Code\Projetos\ED2\src\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.json
+D:\Code\Projetos\ED2\src\DataBase\bin\Debug\netcoreapp3.1\DataBase.runtimeconfig.dev.json
+D:\Code\Projetos\ED2\src\DataBase\bin\Debug\netcoreapp3.1\DataBase.dll
+D:\Code\Projetos\ED2\src\DataBase\bin\Debug\netcoreapp3.1\DataBase.pdb
+D:\Code\Projetos\ED2\src\DataBase\bin\Debug\netcoreapp3.1\BinaryTree.dll
+D:\Code\Projetos\ED2\src\DataBase\bin\Debug\netcoreapp3.1\BinaryTree.pdb
+D:\Code\Projetos\ED2\src\DataBase\obj\Debug\netcoreapp3.1\DataBase.csprojAssemblyReference.cache
+D:\Code\Projetos\ED2\src\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfoInputs.cache
+D:\Code\Projetos\ED2\src\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.cs
+D:\Code\Projetos\ED2\src\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CopyComplete
+D:\Code\Projetos\ED2\src\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
+D:\Code\Projetos\ED2\src\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb

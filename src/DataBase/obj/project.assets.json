@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "BinaryTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/BinaryTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BinaryTree.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BinaryTree/1.0.0": {
+      "type": "project",
+      "path": "../BinaryTree/BinaryTree.csproj",
+      "msbuildProject": "../BinaryTree/BinaryTree.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "BinaryTree >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\yanke\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj",
-      "projectName": "BinaryTree",
-      "projectPath": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj",
+      "projectUniqueName": "D:\\Code\\Projetos\\ED2\\src\\DataBase\\DataBase.csproj",
+      "projectName": "DataBase",
+      "projectPath": "D:\\Code\\Projetos\\ED2\\src\\DataBase\\DataBase.csproj",
       "packagesPath": "C:\\Users\\yanke\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\obj\\",
+      "outputPath": "D:\\Code\\Projetos\\ED2\\src\\DataBase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yanke\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj": {
+              "projectPath": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

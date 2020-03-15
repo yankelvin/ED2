@@ -26,7 +26,10 @@ namespace BinaryTree.Class
 
         public override string ToString()
         {
-            return $"Key: {Key} | Data: {Data} | Left: {Left.Key} | Right: {Right.Key}";
+            var left = Left == null ? "" : Left.Key.ToString();
+            var right = Right == null ? "" : Right.Key.ToString();
+
+            return $"Key: {Key} | Data: {Data} | Left: {left} | Right: {right}";
         }
     }
 }

@@ -255,5 +255,7 @@ namespace BinaryTree.Class
         public Node<K, T> Parent(K key) => Search(key)?.Parent;
 
         public int Size() => Count;
+
+        public override string ToString() => Root.ToString();
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Csharp\\ED2\\src\\VectorTree\\VectorTree.csproj",
+      "projectUniqueName": "D:\\Code\\Projetos\\ED2\\src\\VectorTree\\VectorTree.csproj",
       "projectName": "VectorTree",
-      "projectPath": "D:\\Code\\Csharp\\ED2\\src\\VectorTree\\VectorTree.csproj",
+      "projectPath": "D:\\Code\\Projetos\\ED2\\src\\VectorTree\\VectorTree.csproj",
       "packagesPath": "C:\\Users\\yanke\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Csharp\\ED2\\src\\VectorTree\\obj\\",
+      "outputPath": "D:\\Code\\Projetos\\ED2\\src\\VectorTree\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yanke\\AppData\\Roaming\\NuGet\\NuGet.Config",
