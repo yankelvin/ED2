@@ -7,6 +7,18 @@ namespace DataBase
     {
         static void Main(string[] args)
         {
+            #region Vantagens e Desvantagens
+            /* Vantagens:
+             * - Rápida consulta quando os índices estão organizados corretamente;
+             * - Possibilidade de adicionar índices referentes as colunas mais pesquisadas;
+             * 
+             * Desvantagens:
+             * - Se fizer busca pelo índice errado pode onerar a consulta;
+             * - Para fazer a primeira consulta pelo índice de uma coluna será necessário criá-lo;
+             * 
+             */
+            #endregion
+
             var db = new Db();
 
             db.CreateTable("Alunos");
