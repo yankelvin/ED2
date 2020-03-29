@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTree", "src\BinaryTre
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VectorTree", "src\VectorTree\VectorTree.csproj", "{A56504D7-FE97-41B3-BBEC-4B1E225F90B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "src\DataBase\DataBase.csproj", "{91F8E234-FF16-42C1-B6F2-0D2E9A9E5290}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBase", "src\DataBase\DataBase.csproj", "{91F8E234-FF16-42C1-B6F2-0D2E9A9E5290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LavaJato", "src\LavaJato\LavaJato.csproj", "{1E03E886-A39A-4BE0-A48F-843D3A6105A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{91F8E234-FF16-42C1-B6F2-0D2E9A9E5290}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91F8E234-FF16-42C1-B6F2-0D2E9A9E5290}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91F8E234-FF16-42C1-B6F2-0D2E9A9E5290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E03E886-A39A-4BE0-A48F-843D3A6105A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E03E886-A39A-4BE0-A48F-843D3A6105A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E03E886-A39A-4BE0-A48F-843D3A6105A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E03E886-A39A-4BE0-A48F-843D3A6105A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

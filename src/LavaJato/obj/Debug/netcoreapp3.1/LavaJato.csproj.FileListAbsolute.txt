@@ -1,0 +1,15 @@
+D:\Code\Projetos\ED2\src\LavaJato\bin\Debug\netcoreapp3.1\GenericTree.exe
+D:\Code\Projetos\ED2\src\LavaJato\bin\Debug\netcoreapp3.1\LavaJato.exe
+D:\Code\Projetos\ED2\src\LavaJato\bin\Debug\netcoreapp3.1\LavaJato.deps.json
+D:\Code\Projetos\ED2\src\LavaJato\bin\Debug\netcoreapp3.1\LavaJato.runtimeconfig.json
+D:\Code\Projetos\ED2\src\LavaJato\bin\Debug\netcoreapp3.1\LavaJato.runtimeconfig.dev.json
+D:\Code\Projetos\ED2\src\LavaJato\bin\Debug\netcoreapp3.1\LavaJato.dll
+D:\Code\Projetos\ED2\src\LavaJato\bin\Debug\netcoreapp3.1\LavaJato.pdb
+D:\Code\Projetos\ED2\src\LavaJato\bin\Debug\netcoreapp3.1\GenericTree.dll
+D:\Code\Projetos\ED2\src\LavaJato\bin\Debug\netcoreapp3.1\GenericTree.pdb
+D:\Code\Projetos\ED2\src\LavaJato\obj\Debug\netcoreapp3.1\LavaJato.csprojAssemblyReference.cache
+D:\Code\Projetos\ED2\src\LavaJato\obj\Debug\netcoreapp3.1\LavaJato.AssemblyInfoInputs.cache
+D:\Code\Projetos\ED2\src\LavaJato\obj\Debug\netcoreapp3.1\LavaJato.AssemblyInfo.cs
+D:\Code\Projetos\ED2\src\LavaJato\obj\Debug\netcoreapp3.1\LavaJato.csproj.CopyComplete
+D:\Code\Projetos\ED2\src\LavaJato\obj\Debug\netcoreapp3.1\LavaJato.dll
+D:\Code\Projetos\ED2\src\LavaJato\obj\Debug\netcoreapp3.1\LavaJato.pdb
