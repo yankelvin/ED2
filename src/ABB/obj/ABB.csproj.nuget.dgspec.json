@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code\\Projetos\\ED2\\src\\ABB\\ABB.csproj": {}
+  },
+  "projects": {
+    "D:\\Code\\Projetos\\ED2\\src\\ABB\\ABB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\Projetos\\ED2\\src\\ABB\\ABB.csproj",
+        "projectName": "ABB",
+        "projectPath": "D:\\Code\\Projetos\\ED2\\src\\ABB\\ABB.csproj",
+        "packagesPath": "C:\\Users\\yanke\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Projetos\\ED2\\src\\ABB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yanke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj": {
+                "projectPath": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj"
+              },
+              "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\GenericTree.csproj": {
+                "projectPath": "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\GenericTree.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj",
+        "projectName": "BinaryTree",
+        "projectPath": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj",
+        "packagesPath": "C:\\Users\\yanke\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yanke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\GenericTree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\GenericTree.csproj",
+        "projectName": "GenericTree",
+        "projectPath": "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\GenericTree.csproj",
+        "packagesPath": "C:\\Users\\yanke\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yanke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
