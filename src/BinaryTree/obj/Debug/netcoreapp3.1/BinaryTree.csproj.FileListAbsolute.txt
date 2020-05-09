@@ -20,3 +20,5 @@ D:\Code\Projetos\ED2\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyI
 D:\Code\Projetos\ED2\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfo.cs
 D:\Code\Projetos\ED2\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.dll
 D:\Code\Projetos\ED2\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.pdb
+D:\Code\Projetos\ED2\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csproj.CoreCompileInputs.cache
+D:\Code\Projetos\ED2\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.genruntimeconfig.cache

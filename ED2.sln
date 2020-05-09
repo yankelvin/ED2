@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBase", "src\DataBase\Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LavaJato", "src\LavaJato\LavaJato.csproj", "{1E03E886-A39A-4BE0-A48F-843D3A6105A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABB", "src\ABB\ABB.csproj", "{EA23280C-2FCE-4657-9204-418633DB676A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ABB", "src\ABB\ABB.csproj", "{EA23280C-2FCE-4657-9204-418633DB676A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova", "src\Prova\Prova.csproj", "{30018451-9F57-4CB6-894D-184706AD5D4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{EA23280C-2FCE-4657-9204-418633DB676A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA23280C-2FCE-4657-9204-418633DB676A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA23280C-2FCE-4657-9204-418633DB676A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30018451-9F57-4CB6-894D-184706AD5D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30018451-9F57-4CB6-894D-184706AD5D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30018451-9F57-4CB6-894D-184706AD5D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30018451-9F57-4CB6-894D-184706AD5D4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

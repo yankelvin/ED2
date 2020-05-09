@@ -20,3 +20,5 @@ D:\Code\Projetos\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.Assembl
 D:\Code\Projetos\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.AssemblyInfo.cs
 D:\Code\Projetos\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.dll
 D:\Code\Projetos\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.pdb
+D:\Code\Projetos\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.csproj.CoreCompileInputs.cache
+D:\Code\Projetos\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.genruntimeconfig.cache

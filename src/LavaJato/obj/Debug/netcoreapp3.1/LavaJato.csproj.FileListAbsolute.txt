@@ -13,3 +13,5 @@ D:\Code\Projetos\ED2\src\LavaJato\obj\Debug\netcoreapp3.1\LavaJato.AssemblyInfo.
 D:\Code\Projetos\ED2\src\LavaJato\obj\Debug\netcoreapp3.1\LavaJato.csproj.CopyComplete
 D:\Code\Projetos\ED2\src\LavaJato\obj\Debug\netcoreapp3.1\LavaJato.dll
 D:\Code\Projetos\ED2\src\LavaJato\obj\Debug\netcoreapp3.1\LavaJato.pdb
+D:\Code\Projetos\ED2\src\LavaJato\obj\Debug\netcoreapp3.1\LavaJato.csproj.CoreCompileInputs.cache
+D:\Code\Projetos\ED2\src\LavaJato\obj\Debug\netcoreapp3.1\LavaJato.genruntimeconfig.cache

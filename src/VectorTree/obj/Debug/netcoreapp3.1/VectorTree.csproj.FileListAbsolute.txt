@@ -20,3 +20,5 @@ D:\Code\Projetos\ED2\src\VectorTree\obj\Debug\netcoreapp3.1\VectorTree.AssemblyI
 D:\Code\Projetos\ED2\src\VectorTree\obj\Debug\netcoreapp3.1\VectorTree.AssemblyInfo.cs
 D:\Code\Projetos\ED2\src\VectorTree\obj\Debug\netcoreapp3.1\VectorTree.dll
 D:\Code\Projetos\ED2\src\VectorTree\obj\Debug\netcoreapp3.1\VectorTree.pdb
+D:\Code\Projetos\ED2\src\VectorTree\obj\Debug\netcoreapp3.1\VectorTree.csproj.CoreCompileInputs.cache
+D:\Code\Projetos\ED2\src\VectorTree\obj\Debug\netcoreapp3.1\VectorTree.genruntimeconfig.cache

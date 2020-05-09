@@ -13,3 +13,5 @@ D:\Code\Projetos\ED2\src\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.
 D:\Code\Projetos\ED2\src\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CopyComplete
 D:\Code\Projetos\ED2\src\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
 D:\Code\Projetos\ED2\src\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb
+D:\Code\Projetos\ED2\src\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CoreCompileInputs.cache
+D:\Code\Projetos\ED2\src\DataBase\obj\Debug\netcoreapp3.1\DataBase.genruntimeconfig.cache

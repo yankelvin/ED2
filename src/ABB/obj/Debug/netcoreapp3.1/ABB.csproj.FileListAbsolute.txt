@@ -16,3 +16,5 @@ D:\Code\Projetos\ED2\src\ABB\obj\Debug\netcoreapp3.1\ABB.AssemblyInfo.cs
 D:\Code\Projetos\ED2\src\ABB\obj\Debug\netcoreapp3.1\ABB.csproj.CopyComplete
 D:\Code\Projetos\ED2\src\ABB\obj\Debug\netcoreapp3.1\ABB.dll
 D:\Code\Projetos\ED2\src\ABB\obj\Debug\netcoreapp3.1\ABB.pdb
+D:\Code\Projetos\ED2\src\ABB\obj\Debug\netcoreapp3.1\ABB.csproj.CoreCompileInputs.cache
+D:\Code\Projetos\ED2\src\ABB\obj\Debug\netcoreapp3.1\ABB.genruntimeconfig.cache
