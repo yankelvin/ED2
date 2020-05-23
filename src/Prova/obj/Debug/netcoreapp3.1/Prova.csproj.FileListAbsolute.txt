@@ -10,3 +10,16 @@ D:\Code\Projetos\ED2\src\Prova\obj\Debug\netcoreapp3.1\Prova.AssemblyInfo.cs
 D:\Code\Projetos\ED2\src\Prova\obj\Debug\netcoreapp3.1\Prova.dll
 D:\Code\Projetos\ED2\src\Prova\obj\Debug\netcoreapp3.1\Prova.pdb
 D:\Code\Projetos\ED2\src\Prova\obj\Debug\netcoreapp3.1\Prova.genruntimeconfig.cache
+D:\Code\Projetos\projetos-csharp\src\Prova\bin\Debug\netcoreapp3.1\Prova.exe
+D:\Code\Projetos\projetos-csharp\src\Prova\bin\Debug\netcoreapp3.1\Prova.deps.json
+D:\Code\Projetos\projetos-csharp\src\Prova\bin\Debug\netcoreapp3.1\Prova.runtimeconfig.json
+D:\Code\Projetos\projetos-csharp\src\Prova\bin\Debug\netcoreapp3.1\Prova.runtimeconfig.dev.json
+D:\Code\Projetos\projetos-csharp\src\Prova\bin\Debug\netcoreapp3.1\Prova.dll
+D:\Code\Projetos\projetos-csharp\src\Prova\bin\Debug\netcoreapp3.1\Prova.pdb
+D:\Code\Projetos\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.csprojAssemblyReference.cache
+D:\Code\Projetos\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.csproj.CoreCompileInputs.cache
+D:\Code\Projetos\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.AssemblyInfoInputs.cache
+D:\Code\Projetos\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.AssemblyInfo.cs
+D:\Code\Projetos\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.dll
+D:\Code\Projetos\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.pdb
+D:\Code\Projetos\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.genruntimeconfig.cache

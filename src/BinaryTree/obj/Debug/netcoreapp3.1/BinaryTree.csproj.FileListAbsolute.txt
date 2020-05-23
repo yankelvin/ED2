@@ -22,3 +22,16 @@ D:\Code\Projetos\ED2\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.dll
 D:\Code\Projetos\ED2\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.pdb
 D:\Code\Projetos\ED2\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csproj.CoreCompileInputs.cache
 D:\Code\Projetos\ED2\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.genruntimeconfig.cache
+D:\Code\Projetos\projetos-csharp\src\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.exe
+D:\Code\Projetos\projetos-csharp\src\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.deps.json
+D:\Code\Projetos\projetos-csharp\src\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.json
+D:\Code\Projetos\projetos-csharp\src\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.runtimeconfig.dev.json
+D:\Code\Projetos\projetos-csharp\src\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.dll
+D:\Code\Projetos\projetos-csharp\src\BinaryTree\bin\Debug\netcoreapp3.1\BinaryTree.pdb
+D:\Code\Projetos\projetos-csharp\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csprojAssemblyReference.cache
+D:\Code\Projetos\projetos-csharp\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.csproj.CoreCompileInputs.cache
+D:\Code\Projetos\projetos-csharp\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfoInputs.cache
+D:\Code\Projetos\projetos-csharp\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.AssemblyInfo.cs
+D:\Code\Projetos\projetos-csharp\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.dll
+D:\Code\Projetos\projetos-csharp\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.pdb
+D:\Code\Projetos\projetos-csharp\src\BinaryTree\obj\Debug\netcoreapp3.1\BinaryTree.genruntimeconfig.cache
