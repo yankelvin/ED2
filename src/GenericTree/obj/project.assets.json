@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\GenericTree.csproj",
+      "projectUniqueName": "D:\\Code\\Projetos\\projetos-csharp\\src\\GenericTree\\GenericTree.csproj",
       "projectName": "GenericTree",
-      "projectPath": "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\GenericTree.csproj",
+      "projectPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\GenericTree\\GenericTree.csproj",
       "packagesPath": "C:\\Users\\yanke\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\obj\\",
+      "outputPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\GenericTree\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yanke\\AppData\\Roaming\\NuGet\\NuGet.Config",

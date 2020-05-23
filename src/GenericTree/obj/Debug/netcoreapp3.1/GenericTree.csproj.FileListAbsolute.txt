@@ -22,3 +22,16 @@ D:\Code\Projetos\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.dll
 D:\Code\Projetos\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.pdb
 D:\Code\Projetos\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.csproj.CoreCompileInputs.cache
 D:\Code\Projetos\ED2\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.genruntimeconfig.cache
+D:\Code\Projetos\projetos-csharp\src\GenericTree\bin\Debug\netcoreapp3.1\GenericTree.exe
+D:\Code\Projetos\projetos-csharp\src\GenericTree\bin\Debug\netcoreapp3.1\GenericTree.deps.json
+D:\Code\Projetos\projetos-csharp\src\GenericTree\bin\Debug\netcoreapp3.1\GenericTree.runtimeconfig.json
+D:\Code\Projetos\projetos-csharp\src\GenericTree\bin\Debug\netcoreapp3.1\GenericTree.runtimeconfig.dev.json
+D:\Code\Projetos\projetos-csharp\src\GenericTree\bin\Debug\netcoreapp3.1\GenericTree.dll
+D:\Code\Projetos\projetos-csharp\src\GenericTree\bin\Debug\netcoreapp3.1\GenericTree.pdb
+D:\Code\Projetos\projetos-csharp\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.csprojAssemblyReference.cache
+D:\Code\Projetos\projetos-csharp\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.csproj.CoreCompileInputs.cache
+D:\Code\Projetos\projetos-csharp\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.AssemblyInfoInputs.cache
+D:\Code\Projetos\projetos-csharp\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.AssemblyInfo.cs
+D:\Code\Projetos\projetos-csharp\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.dll
+D:\Code\Projetos\projetos-csharp\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.pdb
+D:\Code\Projetos\projetos-csharp\src\GenericTree\obj\Debug\netcoreapp3.1\GenericTree.genruntimeconfig.cache

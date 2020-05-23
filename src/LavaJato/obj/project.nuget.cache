@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "34bF6IGyHDTTtRIFXnpCfLjyZ1Sd03kSdlsGD+GyYVaedRI3qA5vaaN+P5+ZbPtWCJrFb+Dleri9tw9M5qi/6w==",
+  "dgSpecHash": "i5RQ40Y6dtsFr3LNkVEhqm1e/yJgYaBXWO4Tmjugh+0LFhHh9CtZmYK3ziJ8DSmlxzcS8y1ATAMwyVIkwEEltQ==",
   "success": true,
-  "projectFilePath": "D:\\Code\\Projetos\\ED2\\src\\LavaJato\\LavaJato.csproj",
+  "projectFilePath": "D:\\Code\\Projetos\\projetos-csharp\\src\\LavaJato\\LavaJato.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

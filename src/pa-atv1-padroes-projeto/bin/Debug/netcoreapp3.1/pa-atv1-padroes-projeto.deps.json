@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pa-atv1-padroes-projeto/1.0.0": {
+        "runtime": {
+          "pa-atv1-padroes-projeto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pa-atv1-padroes-projeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

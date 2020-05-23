@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O0dCz2vn1NbSo8UtZua06mPibltxl2V+uYposm7/fyVnhWp1RIgXGpy9Z/3lEarAm4P+cbY6VXtmINGbf1aeYw==",
+  "dgSpecHash": "yz4mmlOsUgCfI+wiRWedkZHrY/POfyuWmdUJgvM2Qc00qtFZXTPLTBkEWwAP7mY+i9brNLqfXYpxIqZ78TBy9A==",
   "success": true,
-  "projectFilePath": "D:\\Code\\Projetos\\ED2\\src\\ABB\\ABB.csproj",
+  "projectFilePath": "D:\\Code\\Projetos\\projetos-csharp\\src\\ABB\\ABB.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

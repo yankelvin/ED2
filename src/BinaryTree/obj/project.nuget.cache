@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W0AY9MkeUO4cJM49yLJ0l8GnXtqTKnauBRrvU2mbizP+XsnrcFIOyS0xOhsfy/iXm9sz8UT1rSN9jIoFA1pyyQ==",
+  "dgSpecHash": "j+isCg4zUV41hLHokTjCjz2f4zcOlISc2fh34uo4Jp/MQ9o1F9Y+b8I7NuZRxpu+bKlddS5+MN4b/qFVEB2D1A==",
   "success": true,
-  "projectFilePath": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj",
+  "projectFilePath": "D:\\Code\\Projetos\\projetos-csharp\\src\\BinaryTree\\BinaryTree.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,13 @@
+D:\Code\Projetos\projetos-csharp\src\pa-atv1-padroes-projeto\bin\Debug\netcoreapp3.1\pa-atv1-padroes-projeto.exe
+D:\Code\Projetos\projetos-csharp\src\pa-atv1-padroes-projeto\bin\Debug\netcoreapp3.1\pa-atv1-padroes-projeto.deps.json
+D:\Code\Projetos\projetos-csharp\src\pa-atv1-padroes-projeto\bin\Debug\netcoreapp3.1\pa-atv1-padroes-projeto.runtimeconfig.json
+D:\Code\Projetos\projetos-csharp\src\pa-atv1-padroes-projeto\bin\Debug\netcoreapp3.1\pa-atv1-padroes-projeto.runtimeconfig.dev.json
+D:\Code\Projetos\projetos-csharp\src\pa-atv1-padroes-projeto\bin\Debug\netcoreapp3.1\pa-atv1-padroes-projeto.dll
+D:\Code\Projetos\projetos-csharp\src\pa-atv1-padroes-projeto\bin\Debug\netcoreapp3.1\pa-atv1-padroes-projeto.pdb
+D:\Code\Projetos\projetos-csharp\src\pa-atv1-padroes-projeto\obj\Debug\netcoreapp3.1\pa-atv1-padroes-projeto.csprojAssemblyReference.cache
+D:\Code\Projetos\projetos-csharp\src\pa-atv1-padroes-projeto\obj\Debug\netcoreapp3.1\pa-atv1-padroes-projeto.csproj.CoreCompileInputs.cache
+D:\Code\Projetos\projetos-csharp\src\pa-atv1-padroes-projeto\obj\Debug\netcoreapp3.1\pa-atv1-padroes-projeto.AssemblyInfoInputs.cache
+D:\Code\Projetos\projetos-csharp\src\pa-atv1-padroes-projeto\obj\Debug\netcoreapp3.1\pa-atv1-padroes-projeto.AssemblyInfo.cs
+D:\Code\Projetos\projetos-csharp\src\pa-atv1-padroes-projeto\obj\Debug\netcoreapp3.1\pa-atv1-padroes-projeto.dll
+D:\Code\Projetos\projetos-csharp\src\pa-atv1-padroes-projeto\obj\Debug\netcoreapp3.1\pa-atv1-padroes-projeto.pdb
+D:\Code\Projetos\projetos-csharp\src\pa-atv1-padroes-projeto\obj\Debug\netcoreapp3.1\pa-atv1-padroes-projeto.genruntimeconfig.cache

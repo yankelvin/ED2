@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Projetos\\ED2\\src\\LavaJato\\LavaJato.csproj": {}
+    "D:\\Code\\Projetos\\projetos-csharp\\src\\LavaJato\\LavaJato.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\GenericTree.csproj": {
+    "D:\\Code\\Projetos\\projetos-csharp\\src\\GenericTree\\GenericTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\GenericTree.csproj",
+        "projectUniqueName": "D:\\Code\\Projetos\\projetos-csharp\\src\\GenericTree\\GenericTree.csproj",
         "projectName": "GenericTree",
-        "projectPath": "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\GenericTree.csproj",
+        "projectPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\GenericTree\\GenericTree.csproj",
         "packagesPath": "C:\\Users\\yanke\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\obj\\",
+        "outputPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\GenericTree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yanke\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "D:\\Code\\Projetos\\ED2\\src\\LavaJato\\LavaJato.csproj": {
+    "D:\\Code\\Projetos\\projetos-csharp\\src\\LavaJato\\LavaJato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Projetos\\ED2\\src\\LavaJato\\LavaJato.csproj",
+        "projectUniqueName": "D:\\Code\\Projetos\\projetos-csharp\\src\\LavaJato\\LavaJato.csproj",
         "projectName": "LavaJato",
-        "projectPath": "D:\\Code\\Projetos\\ED2\\src\\LavaJato\\LavaJato.csproj",
+        "projectPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\LavaJato\\LavaJato.csproj",
         "packagesPath": "C:\\Users\\yanke\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Projetos\\ED2\\src\\LavaJato\\obj\\",
+        "outputPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\LavaJato\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yanke\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\GenericTree.csproj": {
-                "projectPath": "D:\\Code\\Projetos\\ED2\\src\\GenericTree\\GenericTree.csproj"
+              "D:\\Code\\Projetos\\projetos-csharp\\src\\GenericTree\\GenericTree.csproj": {
+                "projectPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\GenericTree\\GenericTree.csproj"
               }
             }
           }

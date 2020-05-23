@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Projetos\\ED2\\src\\Prova\\Prova.csproj",
+      "projectUniqueName": "D:\\Code\\Projetos\\projetos-csharp\\src\\Prova\\Prova.csproj",
       "projectName": "Prova",
-      "projectPath": "D:\\Code\\Projetos\\ED2\\src\\Prova\\Prova.csproj",
+      "projectPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\Prova\\Prova.csproj",
       "packagesPath": "C:\\Users\\yanke\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Projetos\\ED2\\src\\Prova\\obj\\",
+      "outputPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\Prova\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yanke\\AppData\\Roaming\\NuGet\\NuGet.Config",

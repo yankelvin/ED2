@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj",
+      "projectUniqueName": "D:\\Code\\Projetos\\projetos-csharp\\src\\BinaryTree\\BinaryTree.csproj",
       "projectName": "BinaryTree",
-      "projectPath": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\BinaryTree.csproj",
+      "projectPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\BinaryTree\\BinaryTree.csproj",
       "packagesPath": "C:\\Users\\yanke\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Projetos\\ED2\\src\\BinaryTree\\obj\\",
+      "outputPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\BinaryTree\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yanke\\AppData\\Roaming\\NuGet\\NuGet.Config",
