@@ -44,16 +44,4 @@ namespace pa_atv1_padroes_projeto.Models
             Console.WriteLine($"Matrícula: {matricula} | Memória: {GetHashCode()} | Marca: {Marca} | Ip: {IP} | Porta: {Porta}");
         }
     }
-
-    public class Funcionario
-    {
-        public string Nome { get; private set; }
-        public string Matricula { get; private set; }
-
-        public Funcionario(string nome, string matricula)
-        {
-            Nome = nome;
-            Matricula = matricula;
-        }
-    }
 }
