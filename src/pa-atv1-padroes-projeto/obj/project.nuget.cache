@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Dee3Q5aWdX3A2vtAIEnfpMtOv6rN9H9av96JY/5Dp9P9PVfn6jlazoMr1np7+xfLJQr7w17C9aor0lbeCWfC7g==",
+  "dgSpecHash": "QgxBfO+UPmJJSPPWOcCHKXuoo/PDqBo1OI+vvLwmuENYbonf7jLeBxxhTWhHPlx4bHjmFLBAWTKTtn0dbzOOCg==",
   "success": true,
   "projectFilePath": "D:\\Code\\Projetos\\projetos-csharp\\src\\pa-atv1-padroes-projeto\\pa-atv1-padroes-projeto.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yanke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

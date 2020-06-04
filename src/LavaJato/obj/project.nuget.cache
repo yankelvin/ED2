@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "i5RQ40Y6dtsFr3LNkVEhqm1e/yJgYaBXWO4Tmjugh+0LFhHh9CtZmYK3ziJ8DSmlxzcS8y1ATAMwyVIkwEEltQ==",
+  "dgSpecHash": "ZWAm7pErT1aAC25HFPl42Y01HukciBFLUDNNtSOXlq3V8Dksss3T1puP7r8U8DdSXTA67GVrrDTXpk3p38e3yA==",
   "success": true,
   "projectFilePath": "D:\\Code\\Projetos\\projetos-csharp\\src\\LavaJato\\LavaJato.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yanke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

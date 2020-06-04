@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "j+isCg4zUV41hLHokTjCjz2f4zcOlISc2fh34uo4Jp/MQ9o1F9Y+b8I7NuZRxpu+bKlddS5+MN4b/qFVEB2D1A==",
+  "dgSpecHash": "0H40sXvXxAdeHyzHc8rPI+JExE2NBqjat4SsXHtFc4Xgs/zz2yQU4sLvF+oErTix1onEDOLMRu5Vq2efyqCt5w==",
   "success": true,
   "projectFilePath": "D:\\Code\\Projetos\\projetos-csharp\\src\\BinaryTree\\BinaryTree.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yanke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

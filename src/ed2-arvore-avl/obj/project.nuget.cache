@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6KvrWo9qdVbNLlSX3aLlozD02TNMWiVblaSY8rI6lKwU05J3yCU32k1ClNZ0k8nnhaeEnbKy3HerVBwOyiqcSg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Projetos\\projetos-csharp\\src\\ed2-arvore-avl\\ed2-arvore-avl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yanke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
