@@ -27,17 +27,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yanke\\.nuget\\packages\\": {}
+    "C:\\Users\\yanke\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Projetos\\projetos-csharp\\src\\DataBase\\DataBase.csproj",
+      "projectUniqueName": "D:\\Code\\Csharp\\projetos-csharp\\src\\DataBase\\DataBase.csproj",
       "projectName": "DataBase",
-      "projectPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\DataBase\\DataBase.csproj",
+      "projectPath": "D:\\Code\\Csharp\\projetos-csharp\\src\\DataBase\\DataBase.csproj",
       "packagesPath": "C:\\Users\\yanke\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\DataBase\\obj\\",
+      "outputPath": "D:\\Code\\Csharp\\projetos-csharp\\src\\DataBase\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\yanke\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -52,8 +56,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Code\\Projetos\\projetos-csharp\\src\\BinaryTree\\BinaryTree.csproj": {
-              "projectPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\BinaryTree\\BinaryTree.csproj"
+            "D:\\Code\\Csharp\\projetos-csharp\\src\\BinaryTree\\BinaryTree.csproj": {
+              "projectPath": "D:\\Code\\Csharp\\projetos-csharp\\src\\BinaryTree\\BinaryTree.csproj"
             }
           }
         }
@@ -76,18 +80,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

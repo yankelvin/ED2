@@ -11,3 +11,16 @@ D:\Code\Projetos\projetos-csharp\src\ed2-arvore-avl\obj\Debug\netcoreapp3.1\ed2-
 D:\Code\Projetos\projetos-csharp\src\ed2-arvore-avl\obj\Debug\netcoreapp3.1\ed2-arvore-avl.dll
 D:\Code\Projetos\projetos-csharp\src\ed2-arvore-avl\obj\Debug\netcoreapp3.1\ed2-arvore-avl.pdb
 D:\Code\Projetos\projetos-csharp\src\ed2-arvore-avl\obj\Debug\netcoreapp3.1\ed2-arvore-avl.genruntimeconfig.cache
+D:\Code\Csharp\projetos-csharp\src\ed2-arvore-avl\bin\Debug\netcoreapp3.1\ed2-arvore-avl.exe
+D:\Code\Csharp\projetos-csharp\src\ed2-arvore-avl\bin\Debug\netcoreapp3.1\ed2-arvore-avl.deps.json
+D:\Code\Csharp\projetos-csharp\src\ed2-arvore-avl\bin\Debug\netcoreapp3.1\ed2-arvore-avl.runtimeconfig.json
+D:\Code\Csharp\projetos-csharp\src\ed2-arvore-avl\bin\Debug\netcoreapp3.1\ed2-arvore-avl.runtimeconfig.dev.json
+D:\Code\Csharp\projetos-csharp\src\ed2-arvore-avl\bin\Debug\netcoreapp3.1\ed2-arvore-avl.dll
+D:\Code\Csharp\projetos-csharp\src\ed2-arvore-avl\bin\Debug\netcoreapp3.1\ed2-arvore-avl.pdb
+D:\Code\Csharp\projetos-csharp\src\ed2-arvore-avl\obj\Debug\netcoreapp3.1\ed2-arvore-avl.csprojAssemblyReference.cache
+D:\Code\Csharp\projetos-csharp\src\ed2-arvore-avl\obj\Debug\netcoreapp3.1\ed2-arvore-avl.AssemblyInfoInputs.cache
+D:\Code\Csharp\projetos-csharp\src\ed2-arvore-avl\obj\Debug\netcoreapp3.1\ed2-arvore-avl.AssemblyInfo.cs
+D:\Code\Csharp\projetos-csharp\src\ed2-arvore-avl\obj\Debug\netcoreapp3.1\ed2-arvore-avl.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\projetos-csharp\src\ed2-arvore-avl\obj\Debug\netcoreapp3.1\ed2-arvore-avl.dll
+D:\Code\Csharp\projetos-csharp\src\ed2-arvore-avl\obj\Debug\netcoreapp3.1\ed2-arvore-avl.pdb
+D:\Code\Csharp\projetos-csharp\src\ed2-arvore-avl\obj\Debug\netcoreapp3.1\ed2-arvore-avl.genruntimeconfig.cache

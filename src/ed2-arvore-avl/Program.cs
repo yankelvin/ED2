@@ -12,7 +12,8 @@ namespace ed2_arvore_avl
             avlTree.Add(10, "dez");
             avlTree.Add(40, "quarenta");
             avlTree.Add(8, "oito");
-            avlTree.Add(20, "vinte");
+            avlTree.Add(5, "cinco");
+            avlTree.Add(2, "dois");
         }
     }
 }

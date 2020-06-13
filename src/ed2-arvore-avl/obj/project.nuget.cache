@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6KvrWo9qdVbNLlSX3aLlozD02TNMWiVblaSY8rI6lKwU05J3yCU32k1ClNZ0k8nnhaeEnbKy3HerVBwOyiqcSg==",
+  "dgSpecHash": "CVUM8oSHy4KRUpyZ8++R+lewOWNGf80mDV5S5RqHeCulm4YUyBl/hBsll5HOJ6I5yFrx/0YlfhTrJZ4j8O8+2A==",
   "success": true,
-  "projectFilePath": "D:\\Code\\Projetos\\projetos-csharp\\src\\ed2-arvore-avl\\ed2-arvore-avl.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\yanke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Code\\Csharp\\projetos-csharp\\src\\ed2-arvore-avl\\ed2-arvore-avl.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,17 +8,21 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\yanke\\.nuget\\packages\\": {}
+    "C:\\Users\\yanke\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Projetos\\projetos-csharp\\src\\VectorTree\\VectorTree.csproj",
+      "projectUniqueName": "D:\\Code\\Csharp\\projetos-csharp\\src\\VectorTree\\VectorTree.csproj",
       "projectName": "VectorTree",
-      "projectPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\VectorTree\\VectorTree.csproj",
+      "projectPath": "D:\\Code\\Csharp\\projetos-csharp\\src\\VectorTree\\VectorTree.csproj",
       "packagesPath": "C:\\Users\\yanke\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Projetos\\projetos-csharp\\src\\VectorTree\\obj\\",
+      "outputPath": "D:\\Code\\Csharp\\projetos-csharp\\src\\VectorTree\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\yanke\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -53,18 +57,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
