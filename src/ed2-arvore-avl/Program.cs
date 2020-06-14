@@ -14,6 +14,16 @@ namespace ed2_arvore_avl
             avlTree.Add(8, "oito");
             avlTree.Add(5, "cinco");
             avlTree.Add(2, "dois");
+
+
+            var search = avlTree.Search(40);
+            Console.WriteLine(search);
+
+            avlTree.Remove(40);
+
+            avlTree.Clean();
+
+            avlTree.Add(15, "quinze");
         }
     }
 }

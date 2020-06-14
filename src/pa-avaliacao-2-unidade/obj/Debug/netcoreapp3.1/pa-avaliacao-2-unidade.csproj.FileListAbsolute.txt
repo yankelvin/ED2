@@ -1,0 +1,13 @@
+D:\Code\Csharp\projetos-csharp\src\pa-avaliacao-2-unidade\bin\Debug\netcoreapp3.1\pa-avaliacao-2-unidade.exe
+D:\Code\Csharp\projetos-csharp\src\pa-avaliacao-2-unidade\bin\Debug\netcoreapp3.1\pa-avaliacao-2-unidade.deps.json
+D:\Code\Csharp\projetos-csharp\src\pa-avaliacao-2-unidade\bin\Debug\netcoreapp3.1\pa-avaliacao-2-unidade.runtimeconfig.json
+D:\Code\Csharp\projetos-csharp\src\pa-avaliacao-2-unidade\bin\Debug\netcoreapp3.1\pa-avaliacao-2-unidade.runtimeconfig.dev.json
+D:\Code\Csharp\projetos-csharp\src\pa-avaliacao-2-unidade\bin\Debug\netcoreapp3.1\pa-avaliacao-2-unidade.dll
+D:\Code\Csharp\projetos-csharp\src\pa-avaliacao-2-unidade\bin\Debug\netcoreapp3.1\pa-avaliacao-2-unidade.pdb
+D:\Code\Csharp\projetos-csharp\src\pa-avaliacao-2-unidade\obj\Debug\netcoreapp3.1\pa-avaliacao-2-unidade.AssemblyInfoInputs.cache
+D:\Code\Csharp\projetos-csharp\src\pa-avaliacao-2-unidade\obj\Debug\netcoreapp3.1\pa-avaliacao-2-unidade.AssemblyInfo.cs
+D:\Code\Csharp\projetos-csharp\src\pa-avaliacao-2-unidade\obj\Debug\netcoreapp3.1\pa-avaliacao-2-unidade.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\projetos-csharp\src\pa-avaliacao-2-unidade\obj\Debug\netcoreapp3.1\pa-avaliacao-2-unidade.dll
+D:\Code\Csharp\projetos-csharp\src\pa-avaliacao-2-unidade\obj\Debug\netcoreapp3.1\pa-avaliacao-2-unidade.pdb
+D:\Code\Csharp\projetos-csharp\src\pa-avaliacao-2-unidade\obj\Debug\netcoreapp3.1\pa-avaliacao-2-unidade.genruntimeconfig.cache
+D:\Code\Csharp\projetos-csharp\src\pa-avaliacao-2-unidade\obj\Debug\netcoreapp3.1\pa-avaliacao-2-unidade.csprojAssemblyReference.cache

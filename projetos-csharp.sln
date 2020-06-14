@@ -23,7 +23,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ed2", "ed2", "{9469823E-76F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pa", "pa", "{10401319-1376-478C-BD77-0F4E1F2610B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ed2-arvore-avl", "src\ed2-arvore-avl\ed2-arvore-avl.csproj", "{E2E6D907-2D60-4156-9BE0-E9B4F113ADE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ed2-arvore-avl", "src\ed2-arvore-avl\ed2-arvore-avl.csproj", "{E2E6D907-2D60-4156-9BE0-E9B4F113ADE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pa-avaliacao-2-unidade", "src\pa-avaliacao-2-unidade\pa-avaliacao-2-unidade.csproj", "{0BBB9985-2E4B-4C5E-9624-3AB7CC378C49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +69,10 @@ Global
 		{E2E6D907-2D60-4156-9BE0-E9B4F113ADE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2E6D907-2D60-4156-9BE0-E9B4F113ADE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2E6D907-2D60-4156-9BE0-E9B4F113ADE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BBB9985-2E4B-4C5E-9624-3AB7CC378C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBB9985-2E4B-4C5E-9624-3AB7CC378C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBB9985-2E4B-4C5E-9624-3AB7CC378C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBB9985-2E4B-4C5E-9624-3AB7CC378C49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{30018451-9F57-4CB6-894D-184706AD5D4E} = {9469823E-76F9-4B19-8F79-BFDBE70857AE}
 		{08DE61E3-E3A8-4D92-A11A-4587DA77716F} = {10401319-1376-478C-BD77-0F4E1F2610B6}
 		{E2E6D907-2D60-4156-9BE0-E9B4F113ADE9} = {9469823E-76F9-4B19-8F79-BFDBE70857AE}
+		{0BBB9985-2E4B-4C5E-9624-3AB7CC378C49} = {10401319-1376-478C-BD77-0F4E1F2610B6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {641AF71B-CAA0-4C99-9CCA-EAAB8EEF1C59}

@@ -23,3 +23,16 @@ D:\Code\Projetos\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.Assembl
 D:\Code\Projetos\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.dll
 D:\Code\Projetos\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.pdb
 D:\Code\Projetos\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.genruntimeconfig.cache
+D:\Code\Csharp\projetos-csharp\src\Prova\bin\Debug\netcoreapp3.1\Prova.exe
+D:\Code\Csharp\projetos-csharp\src\Prova\bin\Debug\netcoreapp3.1\Prova.deps.json
+D:\Code\Csharp\projetos-csharp\src\Prova\bin\Debug\netcoreapp3.1\Prova.runtimeconfig.json
+D:\Code\Csharp\projetos-csharp\src\Prova\bin\Debug\netcoreapp3.1\Prova.runtimeconfig.dev.json
+D:\Code\Csharp\projetos-csharp\src\Prova\bin\Debug\netcoreapp3.1\Prova.dll
+D:\Code\Csharp\projetos-csharp\src\Prova\bin\Debug\netcoreapp3.1\Prova.pdb
+D:\Code\Csharp\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.csprojAssemblyReference.cache
+D:\Code\Csharp\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.AssemblyInfoInputs.cache
+D:\Code\Csharp\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.AssemblyInfo.cs
+D:\Code\Csharp\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.dll
+D:\Code\Csharp\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.pdb
+D:\Code\Csharp\projetos-csharp\src\Prova\obj\Debug\netcoreapp3.1\Prova.genruntimeconfig.cache
